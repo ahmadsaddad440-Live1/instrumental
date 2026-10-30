@@ -1,0 +1,8 @@
+{
+  "name": "instrumental",
+  "description": "Generator prompt Suno AI khusus musik instrumental relaksasi, lo-fi study beats, ambient tidur nyenyak, meditasi, dan fokus kerja (deep work).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
